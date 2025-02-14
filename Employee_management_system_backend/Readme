@@ -1,0 +1,19 @@
+# Employee Management System (GraphQL API)
+# Name: - Krishna Thakkar
+# Student Id: - 101398578
+
+This project is developed as part of **COMP3133 Assignment 1**.  
+It is a **GraphQL-based Employee Management System** built using **Node.js, Express, MongoDB, and Apollo Server,Express-validator**.
+
+---
+
+##  Features
+- **User Authentication** (Signup & Login with JWT)
+- **Employee Management** (CRUD Operations)
+- **GraphQL API** for flexible data fetching
+- **MongoDB Database (Mongoose Models)**
+- **Validation & Error Handling**
+
+---
+
+
